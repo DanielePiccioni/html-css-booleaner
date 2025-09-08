@@ -40,11 +40,20 @@ main {
    width: 80%;
 }
 
-.main-image {
-width: 500px;
+.main-img {
+width: 50%;
 height: auto;
 display: block;
 margin: 10px auto;
+margin-left: 10px;
+}
+
+.second-img {
+width: 39%;
+height: auto;
+display: block;
+margin: 10px auto;
+margin-left: 10px;
 }
 
 /* /main */
