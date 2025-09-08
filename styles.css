@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1,6;
+}
+
+
+/* header */
+
 header {
     background-image: url(img/pattern.webp);
     background-color: #4ea0ff;
@@ -14,6 +22,9 @@ header {
     
 }
 
+/* /header */
+
+
 .logo {
     width: 200px;
     margin-left: 7%;
@@ -21,11 +32,48 @@ header {
 
 }
 
+
+/* mian */
+
 main {
    margin: auto;
    width: 80%;
 }
 
+.main-image {
+width: 500px;
+height: auto;
+display: block;
+margin: 10px auto;
+}
+
+/* /main */
+
+
+/* table */
+
+table {
+    width: auto;
+    border-collapse: collapse;
+}
+table th {
+    background-color: ;
+}
+
+.row {
+    background-color: #1fa9e5;
+    color: white;
+}
+
+.middle {
+    background-color: #b1e4f2;
+}
+
+/* /table */
+
+
+
+/* color text */
 .testo {
     background-color: yellow;
 }
@@ -37,3 +85,20 @@ color: #3ab0e8;
 .grigio {
     color: #828282;
 }
+/* /color text */
+
+.interessi{
+    position: relative;
+
+}
+
+.topleft {
+    position: absolute;
+    color: white;
+    top: 15px;
+    left: 15px;
+}
+
+
+
+
