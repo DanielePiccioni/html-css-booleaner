@@ -55,10 +55,10 @@ margin: 10px auto;
 table {
     width: auto;
     border-collapse: collapse;
+    text-align: left;
 }
-table th {
-    background-color: ;
-}
+
+
 
 .row {
     background-color: #1fa9e5;
