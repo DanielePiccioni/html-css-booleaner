@@ -1,7 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(img/pattern.webp);
+    background-color: #4ea0ff;
+    background-size: 25%;
+    background-position: top;
+    background-repeat: repeat;
+    height: 70px;
+    
+}
+
+.logo {
+    width: 200px;
+    margin-left: 7%;
+    padding: 27px
+
+}
+
+main {
+   margin: auto;
+   width: 80%;
+}
+
 .testo {
     background-color: yellow;
 }
 
 .blue {
-color: blue;
+color: #3ab0e8;
+}
+
+.grigio {
+    color: #828282;
 }
